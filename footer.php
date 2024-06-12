@@ -31,8 +31,3 @@
 <div class="credit">&copy; <?= date('Y'); ?> by <span>Amira Shamsudin</span> | All rights reserved.</div>
 
 </footer>
-
-
-<div class="loader">
-   <img src="images/loader.gif" alt="">
-</div>
