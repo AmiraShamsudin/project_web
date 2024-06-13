@@ -44,6 +44,13 @@ include 'add_cart.php';
    </div>
 </section>
 
+<section class="video-section">
+   <video controls autoplay muted loop>
+      <source src="video/ads.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+</section>
+
 <section class="products">
    <h1 class="title">Top Foods</h1>
    <div class="box-container">
